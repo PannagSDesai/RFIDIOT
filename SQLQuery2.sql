@@ -1,0 +1,1 @@
+﻿INSERT INTO DBAPP1 Values('VUM',135);
